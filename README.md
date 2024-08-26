@@ -11,6 +11,9 @@
 - pom.xml
 - /src/main/java/com/example/demo/
 
+## JAR File Running
+`java -jar demo-0.0.1-SNAPSHOT.jar`
+
 ## Learnings
 - setting up pom.xml
 - application.properties
