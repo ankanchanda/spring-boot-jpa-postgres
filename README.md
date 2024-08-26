@@ -12,7 +12,10 @@
 - /src/main/java/com/example/demo/
 
 ## JAR File Running
-`java -jar demo-0.0.1-SNAPSHOT.jar`
+- `mvn clean`
+- `mvn install`
+- `java -jar target/demo-0.0.1-SNAPSHOT.jar`
+- `java -jar target/demo-0.0.1-SNAPSHOT.jar --server.port=8081`
 
 ## Learnings
 - setting up pom.xml
